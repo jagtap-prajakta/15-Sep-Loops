@@ -7,3 +7,5 @@ for num in list:
     average = sum / len(list)
 print("The average of the given list is: ", average)
 
+
+
